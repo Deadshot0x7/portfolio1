@@ -44,21 +44,21 @@ export interface PortfolioData {
 }
 
 export const portfolioData: PortfolioData = {
-  name: "Viquar Ahmed Hussen Sayyed ,
+  name: "Viquar Ahmed Hussen Sayyed " ,
   role: "Android , Embbeded System dev , Cybersecuity  and Software Engineer ",
   about:
-    "I’m an Android Developer with 4+ years of experience creating high-quality mobile applications. My expertise spans Java, Kotlin, Jetpack Compose, and modern Android architecture, with additional experience in Flutter for cross-platform development. I’ve also worked extensively with AOSP and Chromium, giving me a strong foundation across both software and system-level development.",
-  profileImage: "/images/profile.webp",
+    "I am an Investment Banking Analyst with experience in financial statement analysis, valuation modeling, and transaction support, specializing in DCF, comparable company analysis, and investor-ready pitch materials. My background spans C and C++ programming, AOSP (Android Open Source Project) system-level development, and hands-on exposure to Cybersecurity SOC operations, including threat monitoring and risk assessment. This interdisciplinary foundation enables me to evaluate technology-driven and security-focused businesses with strong analytical depth, bridging finance, systems engineering, and risk management to deliver structured, insight-driven decision support.",
+  profileImage: "/images/s.webp",
   blogUrl: "https://medium.com/@lordarcadius",
   social: [
     {
       platform: "GitHub",
-      url: "https://github.com/lordarcadius",
+      url: "https://github.com/Deadshot0x7",
       icon: "Github",
     },
     {
       platform: "LinkedIn",
-      url: "https://linkedin.com/in/lordarcadius",
+      url: "https://linkedin.com/in/viquarahmedhussen",
       icon: "Linkedin",
     },
     {
@@ -68,17 +68,17 @@ export const portfolioData: PortfolioData = {
     },
     {
       platform: "Instagram",
-      url: "https://instagram.com/lordarcadius",
+      url: "https://instagram.com/sviquarahmed.exe",
       icon: "Instagram",
     },
     {
       platform: "Medium",
-      url: "https://medium.com/@lordarcadius",
+      url: "https://sviquarahmed.medium.com/",
       icon: "BookText", // Using BookText as a generic icon for Medium if branded one is missing
     },
     {
       platform: "Email",
-      url: "mailto:hey@vipuljha.com",
+      url: "mailto:work.sviquarahmed@gmail.com",
       icon: "Mail",
     },
   ],
