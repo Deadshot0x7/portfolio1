@@ -44,8 +44,8 @@ export interface PortfolioData {
 }
 
 export const portfolioData: PortfolioData = {
-  name: "Vipul Jha",
-  role: "Android & Flutter Developer",
+  name: "Viquar Ahmed Hussen Sayyed ,
+  role: "Android , Embbeded System dev , Cybersecuity  and Software Engineer ",
   about:
     "I’m an Android Developer with 4+ years of experience creating high-quality mobile applications. My expertise spans Java, Kotlin, Jetpack Compose, and modern Android architecture, with additional experience in Flutter for cross-platform development. I’ve also worked extensively with AOSP and Chromium, giving me a strong foundation across both software and system-level development.",
   profileImage: "/images/profile.webp",
