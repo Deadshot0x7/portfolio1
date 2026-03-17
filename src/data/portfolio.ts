@@ -117,27 +117,19 @@ export const portfolioData: PortfolioData = {
     tools: ["Git", "Android Studio", "Postman", "VS Code", "IntelliJ IDEA"],
   },
   experience: [
+    
     {
-      company: "Primebook India",
-      role: "Senior Software Engineer (SDE-2)",
-      period: "May, 2023 - Present",
+      company: "Concentrix",
+      role: " Vmo2 Support  Engineer",
+      period: "Januray, 2021 - Present",
       description: [
-        "Built PrimeSecure MDM for PrimeOS 3.0, leveraging DevicePolicyManager.",
-        "Enhanced Prime Browser with feaures like background playback, MDM, etc.",
-        "Created SOPs and Scripts for syncing, managing and building Chromium.",
-        "Migrated App Store storage to Cloudflare R2, saving over $2000/month.",
-        "Developed internal APIs, tools, & the early Cloud PC backend with Cashfree PG.",
-      ],
-    },
-    {
-      company: "Primebook India",
-      role: "Android Engineer",
-      period: "Sep, 2021 - May, 2023",
-      description: [
-        "Built the PikaPika MDM dashboard in Flutter Web.",
-        "Developed PrimeOS apps including Game Center and App Store.",
-        "Initiated the PrimeOS Browser project and maintained it.",
-        "Worked on APIs supporting PrimeOS MDM and system services.",
+		        "Handled 60–80+ high-volume inbound UK telecom calls daily, resolving billing, network, and service-related issues with a customer-first approach.",
+    "Achieved and maintained 90%+ CSAT by delivering accurate and efficient resolutions in a high-pressure environment.",
+    "Consistently met AHT targets (6–8 minutes) while ensuring quality compliance and first-call resolution.",
+    "Drove customer retention and upselling, contributing to increased customer lifetime value and revenue generation.",
+    "Managed escalations and complex cases, reducing repeat contacts and improving overall service efficiency.",
+    "Utilized CRM systems and internal dashboards to track interactions, ensuring 100% documentation accuracy and compliance.",
+    "Collaborated with team members and TLs to improve workflows, contributing to enhanced process efficiency and service delivery.",
       ],
     },
   ],
